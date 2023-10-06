@@ -43,7 +43,7 @@ source your_virtual_env_name/bin/activate  # For Linux/macOS
 pip install -r requirements.txt
 ```
 
-4. Now, select the virtualenv kernel and Run the all the shell line by line which are present in [Playing-Subway-Surfere-Game-using-pose-detection.ipynb](https://github.com/Datastar07/Subway-suffer-Game-using-AI.git/Playing Subway Surfers Game using Pose Detection.ipynb)
+4. Now, select the virtualenv kernel and Run the all the shell line by line which are present in [Playing-Subway-Surfere-Game-using-pose-detection.ipynb](https://github.com/Datastar07/Subway-suffer-Game-using-AI/blob/main/Playing%20Subway%20Surfers%20Game%20using%20Pose%20Detection.ipynb)
 
 5. In that, you need to start the game using this link [Game-link](https://poki.com/en/g/subway-surfers) and than you need to run second last shell in [Playing-Subway-Surfere-Game-using-pose-detection.ipynb](https://github.com/Datastar07/Subway-suffer-Game-using-AI/blob/main/Playing%20Subway%20Surfers%20Game%20using%20Pose%20Detection.ipynb)
 

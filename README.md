@@ -4,7 +4,7 @@ Use pose estimation to play the game subway-surfers
 ## Introduction
 
 A Demo video shows how to play this game.🖼️  
-![gif](Demo\subway_demo.gif)
+![gif](https://github.com/Datastar07/Subway-suffer-Game-using-AI/blob/main/Demo/subway_demo.gif)
 
 Basically, I can play this game by controling my hand's movements. 
 
